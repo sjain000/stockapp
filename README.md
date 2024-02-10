@@ -112,7 +112,7 @@ that may inform their investment decisions.
 Install my-project with npm
 
 ```bash
-git clone https://github.com/AmitSamui/groww-stonks.git
+git clone https://github.com/sjain000/stockapp.git
 cd groww-stonks
 ```
 
